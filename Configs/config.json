@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "taskCore",
+    "Parameters": [
+      {
+        "Id": "param1",
+        "Value": "Core"
+      }
+    ]
+  }
+]
